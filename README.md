@@ -37,7 +37,7 @@ I love working on projects that combine **AI + real-world impact** — whether i
 - **AI Recruitment System (LLM + LangChain):** Automated resume screening & candidate matching.  
 - **Employee Efficiency (MoViNet):** Real-time CCTV action recognition for workplace monitoring.
 - **Theft Detection (Computer Vision):** Built a smart retail monitoring system to detect suspicious activities in real-time using CCTV footage.  
-- **Data Collector:** Designed pipelines to collect and process multi-modal data (sensor readings, images, weather APIs) for training ML models.  
+- **Data Collector:** Designed pipelines to collect and process data from rtsp streams for training ML models.  
  
 
 ---
