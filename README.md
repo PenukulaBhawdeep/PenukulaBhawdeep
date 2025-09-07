@@ -21,7 +21,7 @@ I love working on projects that combine **AI + real-world impact** — whether i
 
 ---
 
-## 🛠Skills  
+## Skills  
 - **Programming:** C, C++, Python, Kotlin  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Databases:** SQL, MySQL  
